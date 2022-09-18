@@ -1,0 +1,14 @@
+{
+    "Name": "SDarkMagic.PhasePilotAsh_F",
+    "Description": "Changes the female phase pilot model to the default model used for Ash in Apex Legends.",
+    "Version": "1.0.0",
+    "LoadPriority": 1,
+    "ConVars": [],
+    "Scripts":
+    [
+    ],
+    "Localisation":
+    [
+
+    ]
+}

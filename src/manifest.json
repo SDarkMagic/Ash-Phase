@@ -1,0 +1,7 @@
+{
+    "name": "Phase_Pilot_Ash",
+    "description": "Changes the female phase pilot model to the default model used for Ash in Apex Legends.",
+    "version_number": "1.0.0",
+    "dependencies": [],
+    "website_url": "https://github.com/SDarkMagic/ash-phase"
+}
