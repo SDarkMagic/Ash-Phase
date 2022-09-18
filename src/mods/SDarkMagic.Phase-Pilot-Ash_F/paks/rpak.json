@@ -1,0 +1,15 @@
+{
+    "Preload":
+    {
+        "ash_preload.rpak": true
+    },
+    "Aliases":
+    {
+    },
+    "Postload":
+    {
+        "ash_body.rpak": "common.rpak",
+        "ash_head.rpak": "common.rpak",
+        "ash_sword.rpak": "common.rpak"
+    }
+}
